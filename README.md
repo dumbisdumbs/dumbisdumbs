@@ -1,6 +1,6 @@
-<p align ="center">${\textsf{\color{#A02A44} 　　♪𝄞 　　to　all　the　boys,}}$
+<p align ="center">${\textsf{\color{#A02A44}　　♪　𝄞　　to　all　the　boys,}}$
 
-<p align ="center"> 　　i've　loved　before　🍷🌹⡴
+<p align ="center">${\textsf{\color{#A02A44} 　　i've　　loved　　before　　🍷🌹⡴}}$
   
  matching with [@iamstormzs](https://github.com/Iamstormzs)
 
