@@ -1,7 +1,12 @@
-<p align ="center"> u r average dumb kin belelele 
+<p align ="center">${\textsf{\color{#A02A44} 　　♪𝄞 　#　to　all　the　boys,}}$
+
+<p align ="center"> 　　i've　loved　before　🍷🌹⡴
   
  matching with [@iamstormzs](https://github.com/Iamstormzs)
 
-<img width="1200" alt="image" src="https://github.com/user-attachments/assets/17282d91-dfca-4e32-b61a-acc468967a50" />
-<img width="1200" alt="image" src="https://github.com/user-attachments/assets/85190314-dfa7-46b8-872d-504fda5ec6fc" />
+<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/53b5c558-f699-46f1-bd02-74ddaf238794" />
+<img width="2048" alt="image" src="https://github.com/user-attachments/assets/795b0e2a-fe58-4392-9b5a-76b21024287e" />
+
+
+
 
